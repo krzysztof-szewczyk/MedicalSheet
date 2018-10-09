@@ -1,9 +1,11 @@
+# project-1
+
 **Autor:** Krzysztof Szewczyk
 
-**Opis:** Wykrywanie stanu zapalnego: temperatura cia³a (liczba rzeczywista), têtno i liczba leukocytów (liczby ca³kowite).
+**Opis:** Wykrywanie stanu zapalnego: temperatura ciaÅ‚a (liczba rzeczywista), tÄ™tno i liczba leukocytÃ³w (liczby caÅ‚kowite).
 
 **Biblioteki:** jcalendar-1.4
 
-**Uwagi dodatkowe:** Klasa Application jest odpowiedzialna za interfejs graficzny i poprawnoœæ wprowadzanych danych.
-					 Klasa Patient przechowuje dane osobowe pacjentów.
+**Uwagi dodatkowe:** Klasa Application jest odpowiedzialna za interfejs graficzny i poprawnoÅ›Ä‡ wprowadzanych danych.
+					 Klasa Patient przechowuje dane osobowe pacjentÃ³w.
 					 Klasa CheckUp przechowuje dane o badaniu danego pacjenta.
