@@ -1,4 +1,4 @@
-# project-1
+# MedicalSheet
 
 **Autor:** Krzysztof Szewczyk
 
